@@ -12,7 +12,6 @@
 |Tool                                       | Link
 --------------------------------------------|---------------------------------
 | Visualgo                                  | https://visualgo.net/en
-| 
 
 
 ### Team Repo and Preparation
