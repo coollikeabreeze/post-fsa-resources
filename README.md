@@ -28,7 +28,7 @@
 
 
 ### Weekly Work & Resources
-<details open>
+<details close>
 <summary font size="4"> Week 1 | Searching & Sorting Algorithms & System Design </summary>
 <br>
   
