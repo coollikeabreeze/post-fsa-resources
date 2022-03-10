@@ -46,5 +46,6 @@
 |Item                                                   | Link
 --------------------------------------------------------|----------------------------------
 | System Design Question: Twitter                       |https://drive.google.com/file/d/1IVP2ReteG2LMuAaXs0gFGkBsxVfiPIJc/view?usp=sharing
+|Persisting a Node API with PostgreSQL, without the help of ORM's like sequelize. | https://dev.to/ogwurujohnson/-persisting-a-node-api-with-postgresql-without-the-help-of-orms-like-sequelize-5dc5
 
 </details>
