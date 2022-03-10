@@ -23,6 +23,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------
 | [FSA - PostGrad Software Engineering Project + Algos + Schedule](https://docs.google.com/spreadsheets/d/1eAaBFTxEaVm1ceIgfAen1T5UsR3XrDQ6eQNPBffuLiY/edit#gid=1259153563)    | Plan for learning algoriths, system design, cloud computing, authorization, and testing post-FSA
 | [Post FSA Dream Team GitHub Organization](https://github.com/post-fsa-dream-team)                                                                                            | Organization repo for post-fsa team projects, documents, and resources
+| [Project Repository](https://github.com/post-fsa-dream-team/divulge) | Divulge GitHub Project Repository - A Medium Clone
 
 
 
@@ -35,5 +36,15 @@
 |Item                                                   | Link
 --------------------------------------------------------|----------------------------------
 | System Design Question: Design Tiny URL               | https://drive.google.com/file/d/1fwnAz-I4pBv_guEVBgsFMvvK06hlsPJd/view?usp=sharing
+
+</details>
+
+<details close>
+<summary font size="4"> Week 2 | Data Structures (1 of 2) & Project </summary>
+<br>
+  
+|Item                                                   | Link
+--------------------------------------------------------|----------------------------------
+| System Design Question: Twitter                       |https://drive.google.com/file/d/1IVP2ReteG2LMuAaXs0gFGkBsxVfiPIJc/view?usp=sharing
 
 </details>
